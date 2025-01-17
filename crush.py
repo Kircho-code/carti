@@ -1,2 +1,2 @@
-print("Shawty gon let me opium.")
+print("Shawty gon let me nigger.")
 
